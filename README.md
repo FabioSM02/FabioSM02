@@ -1,7 +1,6 @@
 # **Fabio Casa Martins**
-
-## Full-Stack developer jr 💻
-### Hellooo! 👋 Welcome to my profile
+## Full-Stack developer jr :computer:
+### HELLOOOO! :wave: Welcome to my profile
 
 <p align="center">
     <img src="https://camo.githubusercontent.com/cdbee60d64689371b2b2f9438037116e9fe7ee74/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966" alt="Animação" style="max-width:100%;"/>
