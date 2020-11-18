@@ -1,6 +1,6 @@
 # **Fabio Casa Martins**
 
-## Full-Stack developer jr. 💻
+## Full-Stack developer jr 💻
 ### Hellooo! 👋 Welcome to my profile
 
 <p align="center">
@@ -14,7 +14,7 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=FabioSM02) <a href= "https://github.com/FabioSM02/github-readme-stats">
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=FabioSM02&layout=compact" /></a>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabio-casa-martins/) [<img src="https://img.shields.io/badge/Digital Innovation One-%23000000.svg?&style=for-the-badge&logo=DigitalInnovationOne&logoColor=white" />](https://web.digitalinnovation.one/users/carlos_inhani) [<img src ="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/u/1/#inbox)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabio-casa-martins/) <a href="mailto:fctrabnet@gmail.com" target="_blank">[<img src ="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">]</a>
 
 
  - 🌎 I'm from São Bernardo do Campo/SP/Brazil
