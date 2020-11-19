@@ -16,7 +16,7 @@
 <a href= "https://github.com/FabioSM02/github-readme-stats">
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=FabioSM02&layout=compact" /></a>
     
-<br/><br/><br/>
+<br/><br/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabio-casa-martins/) <a href="mailto:fctrabnet@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
