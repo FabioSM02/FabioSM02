@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/materialize%20-%23563D7C.svg?&style=for-the-badge&logo=materialize&logoColor=white" /> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/php7%20-%2320232a.svg?&style=for-the-badge&logo=php&logoColor=%FFF" />
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=FabioSM02)<a href= "https://github.com/FabioSM02/github-readme-stats">
+<a href= "https://github.com/FabioSM02/github-readme-stats">
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=FabioSM02&layout=compact" /></a>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabio-casa-martins/) <a href="mailto:fctrabnet@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
