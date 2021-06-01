@@ -1,8 +1,6 @@
 # **Fabio Casa Martins**
 ## Full-Stack developer jr :computer:
 
-<br/>
-
 #### HELLOOOO! :wave: Welcome to my profile
 
 <p align="center">
@@ -20,7 +18,7 @@
 
 <br/><br/>
 
-<a href="https://doesalve.netlify.app/">
+<a href="https://doesalve.netlify.app/" target="_blank">
     Doe&Salve
 </a>
 
