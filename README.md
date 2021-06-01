@@ -1,7 +1,7 @@
 # **Fabio Casa Martins**
 ## Full-Stack developer jr :computer:
 
-<br/><br/><br/>
+<br/>
 
 #### HELLOOOO! :wave: Welcome to my profile
 
